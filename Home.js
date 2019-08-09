@@ -118,7 +118,7 @@ const Style=StyleSheet.create({
         height:80,
 
         top:-30,
-        left:160
+        left:180
     },
     Text12:{
         fontSize:20,
@@ -138,7 +138,7 @@ const Style=StyleSheet.create({
         color:"black",
         width:"130%",
         top:90,
-        right:10
+        right:30
     },
     Text1:{
 
@@ -152,10 +152,10 @@ const Style=StyleSheet.create({
         width:80,
         height: 80,
         top:50,
-        left:10
+        left:30
     },
     Text5:{
-        right:20,
+        right:50,
         top:90,
         fontSize:20,
         color:'black',
@@ -217,16 +217,16 @@ const Style=StyleSheet.create({
     img14:{
         width:80,
         height:80,
-        top:-30,
-        left:50
+        top:-10,
+        left:30
     },
     Text15:{
         fontSize:20,
         color:"black",
         width:"150%",
         direction:"rtl",
-        top:80,
-        right:40
+       bottom:-60,
+        right:-40
     }
 
 
